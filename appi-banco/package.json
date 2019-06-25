@@ -1,0 +1,16 @@
+{
+  "name": "banco",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriana Venegas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.15.2",
+    "mssql": "^ 3.3.0"
+  }
+}
