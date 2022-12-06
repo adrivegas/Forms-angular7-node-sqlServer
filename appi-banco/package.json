@@ -9,8 +9,8 @@
   "author": "Adriana Venegas",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "body-parser": "^1.15.2",
+    "express": "^4.18.2",
+    "body-parser": "^1.20.1",
     "mssql": "^ 3.3.0"
   }
 }
